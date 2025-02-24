@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+
+.icons{
+    display: flexbox;
+    justify-self: start;
+    justify-content: space-between;
+}
